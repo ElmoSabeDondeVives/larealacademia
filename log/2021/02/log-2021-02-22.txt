@@ -1,0 +1,39 @@
+2021-02-22 21:31:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 34[MESSAGGE]Undefined variable: product
+
+2021-02-22 21:31:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:31:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 38[MESSAGGE]Undefined variable: product
+
+2021-02-22 21:31:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 38[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:31:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined property: stdClass::$correlative_out
+
+2021-02-22 21:33:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 34[MESSAGGE]Undefined variable: product
+
+2021-02-22 21:33:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:33:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 38[MESSAGGE]Undefined variable: product
+
+2021-02-22 21:33:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 38[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:33:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined property: stdClass::$correlative_out
+
+2021-02-22 21:34:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined property: stdClass::$correlative_out
+
+2021-02-22 21:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined variable: correlativo
+
+2021-02-22 21:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:35:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined variable: correlativo
+
+2021-02-22 21:35:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Trying to get property of non-object
+
+2021-02-22 21:36:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\salida_stock.php: 46[MESSAGGE]Undefined property: stdClass::$correlative_out
+
+2021-02-22 22:29:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\InventarioController.php: 347[MESSAGGE]Undefined index: producto_stock
+
+2021-02-22 22:29:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Inventario.php: 601[MESSAGGE]Undefined property: Inventario::$stockout_out
+
+2021-02-22 22:29:11[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|salida_stock [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'stockout_out' cannot be null
+2021-02-22 22:31:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\InventarioController.php: 347[MESSAGGE]Undefined index: producto_stock
+

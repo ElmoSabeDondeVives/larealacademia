@@ -1,0 +1,5 @@
+cd c:/Respaldo
+
+mkdir SUMTSEL-%date:~-4%-%date:~8,2%-%date:~5,2%
+cd SUMTSEL-%date:~-4%-%date:~8,2%-%date:~5,2% 
+mysqldump -u root  ferreteriabd>SUMTSEL_%date:~-4%-%date:~8,2%-%date:~5,2%_13-00-00.sql

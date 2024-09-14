@@ -1,0 +1,92 @@
+2021-03-18 10:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 125[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 10:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 134[MESSAGGE]Undefined variable: id
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Undefined variable: ventas
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 94[MESSAGGE]Undefined variable: listar_egresos
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 94[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 142[MESSAGGE]Undefined index: fecha_filtro
+
+2021-03-18 10:32:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 142[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-03-18 13:45:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-03-18 13:45:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-03-18 13:46:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 134[MESSAGGE]Undefined variable: id
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Undefined variable: ventas
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 94[MESSAGGE]Undefined variable: listar_egresos
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 94[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 142[MESSAGGE]Undefined index: fecha_filtro
+
+2021-03-18 14:41:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 142[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-03-18 14:42:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 134[MESSAGGE]Undefined variable: id
+

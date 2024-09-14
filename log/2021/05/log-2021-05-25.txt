@@ -1,0 +1,91 @@
+2021-05-25 13:04:25[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|guardar_proforma [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-05-25 13:05:49[UTC -5] [ip] 127.0.0.1 [lugar] Menu|inicio [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 182[MESSAGGE]Undefined index: pago_con_
+
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 183[MESSAGGE]Undefined index: vuelto_
+
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Proforma.php: 58[MESSAGGE]Undefined property: Proforma::$producto_proforma_correlativo
+
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Proforma.php: 70[MESSAGGE]Undefined property: Proforma::$correlativo_modificar
+
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|guardar_proforma [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_proforma' doesn't exist
+2021-05-25 13:06:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 198[MESSAGGE]Undefined variable: idsale
+
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 182[MESSAGGE]Undefined index: pago_con_
+
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 183[MESSAGGE]Undefined index: vuelto_
+
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Proforma.php: 58[MESSAGGE]Undefined property: Proforma::$producto_proforma_correlativo
+
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Proforma.php: 70[MESSAGGE]Undefined property: Proforma::$correlativo_modificar
+
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|guardar_proforma [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_proforma' doesn't exist
+2021-05-25 14:05:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 198[MESSAGGE]Undefined variable: idsale
+
+2021-05-25 14:09:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-05-25 14:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|inicio [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 14:10:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-05-25 14:10:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-25 16:15:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-05-25 16:15:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-25 16:15:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-25 16:15:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-25 16:15:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-25 16:15:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-25 16:15:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+

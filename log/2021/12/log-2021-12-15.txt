@@ -1,0 +1,155 @@
+2021-12-15 10:26:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:26:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:29:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:29:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:29:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:29:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:29:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:29:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:30:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:30:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:31:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:31:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:32:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:32:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:33:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:33:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 74[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:43:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 79[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:43:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 79[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 10:46:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 80[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 10:46:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 80[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:29:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:29:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:29:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:29:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:29:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:29:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:44:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:44:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:44:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:44:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 13:44:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 13:44:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 22:19:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 22:19:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 22:19:56[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|guardar_comprobantes [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-12-15 22:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Undefined variable: tipo_pago
+
+2021-12-15 22:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\agregar_facturas.php: 87[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\EgresosController.php: 152[MESSAGGE]Undefined index: egreso_descripcion
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\EgresosController.php: 166[MESSAGGE]Undefined index: comprobante_archivo
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Egresos.php: 40[MESSAGGE]Undefined property: Egresos::$egreso_descripcion
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Egresos.php: 41[MESSAGGE]Undefined property: Egresos::$egreso_monto
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Egresos.php: 42[MESSAGGE]Undefined property: Egresos::$egreso_estado
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Egresos.php: 43[MESSAGGE]Undefined property: Egresos::$egreso_fecha_registro
+
+2021-12-15 22:47:35[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|guardar_egreso [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'egreso_descripcion' cannot be null
+2021-12-15 22:49:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\EgresosController.php: 152[MESSAGGE]Undefined index: egreso_descripcion
+
+2021-12-15 22:49:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\EgresosController.php: 166[MESSAGGE]Undefined index: comprobante_archivo
+
+2021-12-15 22:49:20[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|guardar_comprobantes [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'comprobante_tipo' cannot be null
+2021-12-15 22:53:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\EgresosController.php: 166[MESSAGGE]Undefined index: comprobante_archivo
+
+2021-12-15 22:53:00[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|guardar_comprobantes [texto] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'comprobante_archivo' cannot be null
+2021-12-15 23:15:30[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|listar_facturas [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-12-15 23:17:32[UTC -5] [ip] 127.0.0.1 [lugar] Egresos|listar_comprobantes [texto] Call to undefined method EgresosController::listar_comprobantes()
+2021-12-15 23:17:55[UTC -5] [ip] 127.0.0.1 [lugar] EgresosController|listar_comprobantes [texto] Call to undefined method Egresos::listar_comprobantes()
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 59[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 61[MESSAGGE]Undefined property: stdClass::$egreso_descripcion
+
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 62[MESSAGGE]Undefined property: stdClass::$egreso_monto
+
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 63[MESSAGGE]Undefined property: stdClass::$egreso_fecha_registro
+
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 64[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:24:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 64[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:27:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 62[MESSAGGE]Undefined variable: comprobantes
+
+2021-12-15 23:27:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 62[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-12-15 23:32:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 70[MESSAGGE]Undefined property: stdClass::$tipo_pago_nombre
+
+2021-12-15 23:32:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:32:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 73[MESSAGGE]Undefined property: stdClass::$comprobante
+
+2021-12-15 23:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:36:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 74[MESSAGGE]Undefined property: stdClass::$id_egreso
+
+2021-12-15 23:38:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 75[MESSAGGE]Undefined variable: m
+
+2021-12-15 23:38:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 75[MESSAGGE]Trying to get property of non-object
+
+2021-12-15 23:38:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 75[MESSAGGE]Undefined variable: m
+
+2021-12-15 23:38:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\egresos\listar_comprobantes.php: 75[MESSAGGE]Trying to get property of non-object
+

@@ -1,0 +1,60 @@
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 155[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 155[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 10:57:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 155[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 88[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:16:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:26:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 137[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:26:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:27:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:27:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:29:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:32:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:32:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:34:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 156[MESSAGGE]Trying to get property of non-object
+
+2021-06-22 11:49:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\InventarioController.php: 335[MESSAGGE]Undefined index: producto_precio_valor_xmayor
+
+2021-06-22 12:08:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-06-22 12:08:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-06-22 12:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-22 12:34:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\listarproductos2.php: 35[MESSAGGE]Undefined variable: items
+
+2021-06-22 12:34:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\inventario\listarproductos2.php: 35[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-22 13:24:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 305[MESSAGGE]Undefined variable: detalle_
+
+2021-06-22 13:26:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 305[MESSAGGE]Undefined variable: detalle_
+

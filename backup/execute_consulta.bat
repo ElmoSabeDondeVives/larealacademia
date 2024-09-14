@@ -1,0 +1,1 @@
+set global sql_mode = (select replace(@@sql_mode,'ONLY_FULL_GROUP_BY', ''));

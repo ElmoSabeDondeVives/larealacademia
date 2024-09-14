@@ -1,0 +1,110 @@
+2021-05-06 10:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 10:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 10:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-06 10:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-06 14:25:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:25:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:25:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-06 14:25:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 122[MESSAGGE]Trying to get property of non-object
+
+2021-05-06 14:30:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-05-06 14:30:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-05-06 14:30:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-05-06 14:30:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:30:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:30:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-06 14:30:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-06 14:32:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:32:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:32:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-06 14:32:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-05-06 14:32:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-05-06 14:38:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-05-06 14:39:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:39:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-06 14:39:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-06 14:39:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+

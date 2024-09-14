@@ -1,0 +1,7 @@
+2021-07-20 14:19:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-07-20 14:19:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-07-20 14:27:25[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|realizar_venta [texto] Cannot use object of type stdClass as array
+2021-07-20 14:27:30[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|realizar_venta [texto] Cannot use object of type stdClass as array
+2021-07-20 14:27:33[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|realizar_venta [texto] Cannot use object of type stdClass as array

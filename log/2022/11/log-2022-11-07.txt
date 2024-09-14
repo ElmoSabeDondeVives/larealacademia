@@ -1,0 +1,799 @@
+2022-11-07 16:58:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\lima\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-11-07 16:58:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\lima\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2022-11-07 17:16:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2022-11-07 17:16:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2022-11-07 17:17:13[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|guardar_venta [texto] SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'venta_descuento_global' at row 1
+2022-11-07 17:17:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 620[MESSAGGE]Undefined variable: idventa
+
+2022-11-07 17:17:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 729[MESSAGGE]Undefined variable: idventa
+
+2022-11-07 17:22:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:22:38[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|guardar_venta [texto] FPDF error: Not a JPEG file: http://127.0.0.1/lima/media/logo/logo_lima.png
+2022-11-07 17:22:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-11-07 17:22:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-11-07 17:24:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-11-07 17:24:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-11-07 17:24:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:24:17[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_pdf [texto] FPDF error: Not a JPEG file: http://127.0.0.1/lima/media/logo/logo_lima.png
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:32:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 35[MESSAGGE]Undefined variable: venta_tipo
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_serie' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 36[MESSAGGE]Trying to get property 'venta_correlativo' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Undefined variable: venta
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 50[MESSAGGE]Trying to get property 'venta_fecha' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:33:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:36:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:37:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:37:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:37:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 41[MESSAGGE]Trying to get property 'empresa_razon_social' of non-object
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Undefined variable: empresa
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 43[MESSAGGE]Trying to get property 'empresa_domiciliofiscal' of non-object
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:37:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 56[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 59[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 67[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:38:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 145[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 68[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:41:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 68[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:41:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 57[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 60[MESSAGGE]Trying to get property 'cliente_numero' of non-object
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 66[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 144[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:43:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:43:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 62[MESSAGGE]Undefined variable: cliente_nombre
+
+2022-11-07 17:43:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 140[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:59:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 140[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 32[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 32[MESSAGGE]Trying to get property 'empresa_ruc' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 54[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 54[MESSAGGE]Trying to get property 'tipo_pago_nombre' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 58[MESSAGGE]Undefined variable: documento
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 68[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 68[MESSAGGE]Trying to get property 'cliente_direccion' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 110[MESSAGGE]Undefined variable: montoLetras
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 111[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 111[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 111[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 111[MESSAGGE]Trying to get property 'venta_totaldescuento' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 114[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 114[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 114[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 114[MESSAGGE]Trying to get property 'venta_totalgratuita' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 117[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 117[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 117[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 117[MESSAGGE]Trying to get property 'venta_totalexonerada' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 120[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 120[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 120[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 120[MESSAGGE]Trying to get property 'venta_totalinafecta' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 122[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 122[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 122[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 122[MESSAGGE]Trying to get property 'venta_totalgravada' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 124[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 124[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 124[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 124[MESSAGGE]Trying to get property 'venta_totaligv' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 129[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 129[MESSAGGE]Trying to get property 'simbolo' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 129[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 129[MESSAGGE]Trying to get property 'venta_total' of non-object
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 140[MESSAGGE]Undefined variable: dato_venta
+
+2022-11-07 17:59:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 140[MESSAGGE]Trying to get property 'venta_observaciones' of non-object
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:08:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 140[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:09:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 142[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:09:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 142[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:09:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:09:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:09:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:09:57[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_pdf [texto] syntax error, unexpected '"', expecting ')'
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:10:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 142[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 302[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:13:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 143[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 299[MESSAGGE]Trying to get property 'id_tipodocumento' of non-object
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 304[MESSAGGE]Undefined variable: cliente
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\controllers\VentasController.php: 304[MESSAGGE]Trying to get property 'cliente_nombre' of non-object
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:18:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 143[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:19:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:19:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 143[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:19:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:19:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 143[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:19:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:19:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 143[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:24:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:24:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:24:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:24:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:25:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:25:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:35:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-11-07 18:35:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:35:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:36:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:36:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:36:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:36:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:36:30[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_pdf [texto] syntax error, unexpected '$pdf' (T_VARIABLE), expecting ')'
+2022-11-07 18:36:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:36:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 197[MESSAGGE]Undefined variable: total_soles
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 197[MESSAGGE]Undefined variable: total_soles
+
+2022-11-07 18:37:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-11-07 18:37:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\historial_ventas.php: 197[MESSAGGE]Undefined variable: total_soles
+
+2022-11-07 18:37:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\lima\app\view\pdf\fpdf\fpdf.php: 1198[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2022-11-07 18:37:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lima\app\view\ventas\ticket_pdf.php: 146[MESSAGGE]Undefined property: stdClass::$venta_observaciones
+

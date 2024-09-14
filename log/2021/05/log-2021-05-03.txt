@@ -1,0 +1,17 @@
+2021-05-03 10:50:25[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 10:50:56[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 10:51:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-03 10:51:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-03 10:51:14[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 10:51:16[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:00:46[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:03:51[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:11:33[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:12:05[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:14:12[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:16:29[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:17:54[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:18:10[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-03 11:20:56[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar

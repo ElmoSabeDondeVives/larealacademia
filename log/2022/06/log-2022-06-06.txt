@@ -1,0 +1,190 @@
+2022-06-06 12:49:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\ClientesController.php: 214[MESSAGGE]Undefined variable: direccion
+
+2022-06-06 12:49:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2022-06-06 12:49:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2022-06-06 13:06:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:06:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:07:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:07:18[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:07:33[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:14:10[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:13[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:14:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:15:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 188[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-06-06 13:27:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_ventas.php: 212[MESSAGGE]Undefined variable: total_soles
+

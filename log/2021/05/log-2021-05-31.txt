@@ -1,0 +1,5 @@
+2021-05-31 14:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Fire|inicio [texto] El archivo consultado app/controllers/FireController.php no existe
+2021-05-31 14:33:19[UTC -5] [ip] 127.0.0.1 [lugar] Fire|inicio [texto] El archivo consultado app/controllers/FireController.php no existe
+2021-05-31 14:39:14[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-05-31 14:39:14[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-05-31 14:39:14[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist

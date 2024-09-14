@@ -1,0 +1,58 @@
+2021-05-21 09:07:52[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ver_venta [texto] ID Sin Declarar
+2021-05-21 09:08:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-21 09:08:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-21 12:23:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\MenuController.php: 93[MESSAGGE]Undefined index: id
+
+2021-05-21 12:23:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\MenuController.php: 95[MESSAGGE]Undefined index: id
+
+2021-05-21 12:23:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\menu\opciones.php: 25[MESSAGGE]Undefined index: id
+
+2021-05-21 12:23:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\menu\opciones.php: 127[MESSAGGE]Trying to get property of non-object
+
+2021-05-21 12:23:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\menu\opciones.php: 139[MESSAGGE]Trying to get property of non-object
+
+2021-05-21 12:28:05[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:28:28[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:28:29[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:28:32[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|realizar_proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:32:03[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|realizar_proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:32:41[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|verr_proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:32:45[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|ver_proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:35:54[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|ver_proforma [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-21 12:36:56[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|ver_proforma [texto] syntax error, unexpected 'else' (T_ELSE)
+2021-05-21 12:40:50[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|ver_proforma [texto] ID Sin Declarar
+2021-05-21 12:42:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 57[MESSAGGE]require(app/view/proforma/realizar_profroma.php): failed to open stream: No such file or directory
+
+2021-05-21 12:43:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$ventas
+
+2021-05-21 12:43:42[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:43:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$ventas
+
+2021-05-21 12:43:47[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null2021-05-21 12:44:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$ventas
+
+2021-05-21 12:44:17[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:48:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$ventas
+
+2021-05-21 12:48:42[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:52:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$proformar
+
+2021-05-21 12:52:11[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:53:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 43[MESSAGGE]Undefined property: ProformaController::$proforma
+
+2021-05-21 12:53:37[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:58:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 187[MESSAGGE]Undefined property: ProformaController::$proforma
+
+2021-05-21 12:58:30[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:58:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 187[MESSAGGE]Undefined property: ProformaController::$proforma
+
+2021-05-21 12:58:31[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:58:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 187[MESSAGGE]Undefined property: ProformaController::$proforma
+
+2021-05-21 12:58:32[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 12:58:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 187[MESSAGGE]Undefined property: ProformaController::$proforma
+
+2021-05-21 12:58:51[UTC -5] [ip] 127.0.0.1 [lugar] ProformaController|realizar_proforma [texto] Call to a member function listAllIgv() on null
+2021-05-21 13:00:24[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|guardar_proforma [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-05-21 13:01:22[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|guardar_proforma [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada

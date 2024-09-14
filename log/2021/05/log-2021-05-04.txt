@@ -1,0 +1,10 @@
+2021-05-04 11:10:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-04 11:10:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-04 13:23:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-05-04 13:26:09[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|ticket_electronico [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-04 13:26:12[UTC -5] [ip] 127.0.0.1 [lugar] Sell|ticket_venta [texto] El archivo consultado app/controllers/SellController.php no existe
+2021-05-04 16:46:12[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|inicio [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-04 16:46:19[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|inicio [texto] SIN PERMISOS SUFICIENTES DE ACCESO

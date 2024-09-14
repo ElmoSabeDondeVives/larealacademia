@@ -1,0 +1,524 @@
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 197[MESSAGGE]Undefined variable: total_soles
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 51[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 173[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 09:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 197[MESSAGGE]Undefined variable: total_soles
+
+2021-06-10 09:24:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 62 and defined
+
+2021-06-10 09:24:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:24:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 75 and defined
+
+2021-06-10 09:24:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:24:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 62 and defined
+
+2021-06-10 09:24:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:24:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 75 and defined
+
+2021-06-10 09:24:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:28:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 09:28:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:28:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 09:28:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:28:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 09:28:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:28:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 09:28:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-10 09:42:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 65[MESSAGGE]Undefined variable: gratuita
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 66[MESSAGGE]Undefined variable: gratuita
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 67[MESSAGGE]Undefined variable: exonerada
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 68[MESSAGGE]Undefined variable: exonerada
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 69[MESSAGGE]Undefined variable: inafecta
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 70[MESSAGGE]Undefined variable: inafecta
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 71[MESSAGGE]Undefined variable: gravada
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 72[MESSAGGE]Undefined variable: gravada
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 73[MESSAGGE]Undefined variable: igv
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 74[MESSAGGE]Undefined variable: igv
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 76[MESSAGGE]Undefined variable: ICBPER
+
+2021-06-10 09:42:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\tabla_proforma.php: 80[MESSAGGE]Undefined variable: ICBPER
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 09:42:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 53[MESSAGGE]Undefined variable: stylee
+
+2021-06-10 11:18:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:18:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:18:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:18:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:18:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:18:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:18:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:18:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:27:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:27:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:27:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:27:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:27:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:27:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:27:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:27:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:31:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:31:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:31:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:31:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:31:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:31:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:31:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:31:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:32:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:32:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:32:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:32:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:32:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:32:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:32:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:32:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:33:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:33:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:33:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:33:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:33:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:33:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:33:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:33:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:34:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:34:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:34:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:34:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:34:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:35:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:35:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:35:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:35:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:35:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:35:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:35:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:35:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:46:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:46:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:46:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:46:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:46:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:46:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:46:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:46:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 11:50:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:02:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:02:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:02:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:02:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:02:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:02:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:02:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:02:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:03:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:03:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:03:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:03:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:03:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:03:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:03:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:03:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 83[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 89[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-10 12:05:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:05:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:05:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:05:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:05:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:05:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:05:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:05:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:16:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:16:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:16:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:16:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:16:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:16:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:16:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:16:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:17:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:17:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:17:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:17:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:23:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:23:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:23:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:23:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:23:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:24:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:24:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:24:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:24:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:24:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 64 and defined
+
+2021-06-10 12:24:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+
+2021-06-10 12:24:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 172[MESSAGGE]Missing argument 2 for FPDF::SetMargins(), called in C:\xampp\htdocs\fire\app\view\ventas\imprimir_ticket_pdf.php on line 77 and defined
+
+2021-06-10 12:24:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\pdf\fpdf\fpdf.php: 176[MESSAGGE]Undefined variable: top
+

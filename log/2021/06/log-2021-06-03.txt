@@ -1,0 +1,1525 @@
+2021-06-03 09:19:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 09:19:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 10:05:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 10:05:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 10:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-06-03 10:20:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 298[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:28:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 311[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 10:37:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:37:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 11:34:27[UTC -5] [ip] 127.0.0.1 [lugar] Menui|verificar_permiso_usuario [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.roles' doesn't exist
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 12:12:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:05:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:05:55[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:24:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:09[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|search_by_barcode [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-06-03 13:25:14[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|search_by_barcode [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-06-03 13:25:19[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|search_by_barcode [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:27[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|search_by_barcode [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:25:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:25:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:25:41[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|search_by_barcode [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:27:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 184[MESSAGGE]Undefined index: cliente_number
+
+2021-06-03 13:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|guardar_proforma [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'proforma_correlativo' in 'field list'
+2021-06-03 13:30:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 184[MESSAGGE]Undefined index: cliente_number
+
+2021-06-03 13:30:11[UTC -5] [ip] 127.0.0.1 [lugar] Proforma|guardar_proforma [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'proforma_correlativo' in 'field list'
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 13:36:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 13:39:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ProformaController.php: 184[MESSAGGE]Undefined index: cliente_number
+
+2021-06-03 13:39:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 13:42:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 14:10:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 17:16:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 17:16:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:16:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 17:48:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 17:48:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 17:48:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 46[MESSAGGE]Undefined variable: stylee
+
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:03:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:27:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 299[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-06-03 18:27:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\realizar_proforma.php: 312[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:28:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:31:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:33:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:07[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:33:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|products_selled [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:35:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Reporte|total_por_producto [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firebd.producto_venta_detalle' doesn't exist
+2021-06-03 18:39:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 18:45:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:45:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:45:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:45:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 18:45:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Undefined variable: listar_egresos
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 93[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-03 19:37:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 141[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 60[MESSAGGE]Undefined property: stdClass::$producto_venta_fecha
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 61[MESSAGGE]Undefined property: stdClass::$producto_venta_tipo
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 62[MESSAGGE]Undefined property: stdClass::$producto_venta_correlativo
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 64[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 60[MESSAGGE]Undefined property: stdClass::$producto_venta_fecha
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 61[MESSAGGE]Undefined property: stdClass::$producto_venta_tipo
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 62[MESSAGGE]Undefined property: stdClass::$producto_venta_correlativo
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 64[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 64[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 64[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:39:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:41:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 19:41:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 19:41:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 19:41:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-06-03 19:41:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+
+2021-06-03 19:41:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:41:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 70[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:41:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 67[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:41:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 70[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:46:05[UTC -5] [ip] 127.0.0.1 [lugar] ReporteController|ingresos_y_egresos [texto] syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Undefined variable: ventas
+
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 57[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 96[MESSAGGE]Undefined variable: listar_egresos
+
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 96[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 144[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-03 19:46:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 144[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-03 19:46:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 70[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+
+2021-06-03 19:46:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 70[MESSAGGE]Undefined property: stdClass::$producto_venta_total
+

@@ -1,0 +1,482 @@
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 73[MESSAGGE]Undefined variable: productssale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 73[MESSAGGE]Undefined variable: productssale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:15:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 73[MESSAGGE]Undefined variable: productssale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined variable: sale
+
+2021-02-15 13:17:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 24[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 28[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 34[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 116[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 117[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 118[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 119[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 120[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 122[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined variable: sale
+
+2021-02-15 17:27:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Trying to get property of non-object
+
+2021-02-15 17:27:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:27:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:27:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:27:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined property: stdClass::$producto_venta__total
+
+2021-02-15 17:32:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:32:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:32:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:32:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 126[MESSAGGE]Undefined property: stdClass::$producto_venta__total
+
+2021-02-15 17:47:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:47:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:47:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:49:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:49:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:49:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:59:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:59:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:59:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:59:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:59:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:59:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:59:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 23[MESSAGGE]Undefined property: stdClass::$producto_fecha_venta
+
+2021-02-15 17:59:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:59:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 17:59:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 17:59:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 18:02:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 18:02:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 18:02:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 19:58:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined variable: products
+
+2021-02-15 19:58:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:04:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:04:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:04:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:04:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:04:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:04:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:05:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:05:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:05:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:05:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:05:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:05:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:05:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:06:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:06:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:06:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:06:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:06:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 38[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:06:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 38[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:07:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:07:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:08:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:09:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:09:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:09:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:09:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:09:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:09:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:09:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:09:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:10:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:10:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 20:28:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Undefined variable: productos
+
+2021-02-15 20:28:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 39[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 44[MESSAGGE]Undefined property: stdClass::$producto_precio_valor
+
+2021-02-15 21:10:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:10:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:26:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 21:26:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 21:29:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 27[MESSAGGE]Undefined property: stdClass::$saleproduct_correlative
+
+2021-02-15 21:31:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:33:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\reporte_dia.php: 45[MESSAGGE]Undefined property: stdClass::$venta_detalle_producto_cantidad
+
+2021-02-15 21:34:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 21:34:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 21:34:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+
+2021-02-15 21:35:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\ver_venta.php: 101[MESSAGGE]Undefined offset: 1
+

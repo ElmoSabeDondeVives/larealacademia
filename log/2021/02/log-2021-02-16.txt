@@ -1,0 +1,20 @@
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 34[MESSAGGE]Undefined variable: fecha
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Undefined variable: ventas
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 58[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 98[MESSAGGE]Undefined variable: fecha
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 99[MESSAGGE]Undefined property: stdClass::$expense_description
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 100[MESSAGGE]Undefined property: stdClass::$expense_mont
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 103[MESSAGGE]Undefined property: stdClass::$expense_mont
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 112[MESSAGGE]Undefined variable: total_rent
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 112[MESSAGGE]Undefined variable: total_debt
+
+2021-02-16 22:33:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\reportes\ingresos_y_egresos.php: 112[MESSAGGE]Undefined variable: total_debtrent
+

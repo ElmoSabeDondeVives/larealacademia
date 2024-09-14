@@ -1,0 +1,58 @@
+2021-05-20 10:01:27[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:28[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:30[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:33[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:38[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:46[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:47[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:49[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:53[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:57[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 10:01:59[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] syntax error, unexpected '}', expecting end of file
+2021-05-20 11:12:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 11:12:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 11:12:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 11:12:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 11:12:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 11:12:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 12:02:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 12:02:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 12:03:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 12:03:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 12:10:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-20 12:10:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-20 12:47:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-20 12:47:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-20 12:47:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-20 12:47:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-20 12:47:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 88[MESSAGGE]require(app/view/ventas/proforma.php): failed to open stream: No such file or directory
+
+2021-05-20 12:48:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 88[MESSAGGE]require(app/view/ventas/proforma.php): failed to open stream: No such file or directory
+
+2021-05-20 12:48:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 88[MESSAGGE]require(app/view/ventas/proforma.php): failed to open stream: No such file or directory
+
+2021-05-20 12:49:34[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|inicio [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2021-05-20 14:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-20 14:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-20 14:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-20 14:33:31[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+

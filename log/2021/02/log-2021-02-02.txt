@@ -1,0 +1,136 @@
+2021-02-02 12:27:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\controllers\LoginController.php: 26[MESSAGGE]require(app/view/login/index.php): failed to open stream: No such file or directory
+
+2021-02-02 12:30:51[UTC -5] [ip] 127.0.0.1 [lugar] Admin|inicio [texto] Call to undefined method AdminController::inicio()
+2021-02-02 12:31:20[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] Call to undefined method Navbar::listMenu()
+2021-02-02 12:31:24[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] Call to undefined method Navbar::listMenu()
+2021-02-02 12:31:25[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] Call to undefined method Navbar::listMenu()
+2021-02-02 12:31:25[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] Call to undefined method Navbar::listMenu()
+2021-02-02 12:31:26[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] Call to undefined method Navbar::listMenu()
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:31:49[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:23[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:35:48[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:36:11[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 103[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 103[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:42:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:42:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:42:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 39[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:42:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 107[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Admin|count_user [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.user' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getTurnactive [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.saleproduct' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.expense' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd.turn' doesn't exist
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 34[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-02 12:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 102[MESSAGGE]Undefined variable: fecha_open
+

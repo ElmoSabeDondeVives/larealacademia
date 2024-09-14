@@ -1,0 +1,85 @@
+2021-06-01 13:41:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 25[MESSAGGE]Undefined variable: filtro
+
+2021-06-01 13:42:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 45[MESSAGGE]Undefined variable: ventas
+
+2021-06-01 13:42:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 45[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-01 13:44:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 40[MESSAGGE]Undefined variable: ventas
+
+2021-06-01 13:44:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 40[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-06-01 13:48:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 13:48:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 48[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 13:48:37[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 56[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-01 13:49:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 13:49:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 13:59:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 13:59:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 14:03:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 14:03:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 14:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Proformas|proforma_imprimible [texto] El archivo consultado app/controllers/ProformasController.php no existe
+2021-06-01 14:05:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 14:05:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 14:10:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 14:10:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 17:07:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 17:07:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 17:19:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 17:19:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 22:17:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 22:17:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 22:22:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 22:22:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 22:40:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:40:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:42:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 47[MESSAGGE]Undefined variable: stylee
+
+2021-06-01 22:42:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\ver_proforma.php: 49[MESSAGGE]Undefined property: stdClass::$cliente_razon_social
+
+2021-06-01 22:43:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:43:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:43:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:43:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:43:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:43:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:44:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:44:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+
+2021-06-01 22:45:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Undefined variable: si
+
+2021-06-01 22:45:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\proforma\proforma_imprimible.php: 20[MESSAGGE]Trying to get property of non-object
+

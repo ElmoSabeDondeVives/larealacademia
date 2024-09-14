@@ -1,0 +1,14 @@
+2021-02-24 09:28:25[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|eliminar_producto_precio [texto] SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`bufeosolbd`.`producto_venta_detalle`, CONSTRAINT `producto_venta_detalle_ibfk_1` FOREIGN KEY (`id_producto_precio`) REFERENCES `producto_precio` (`id_producto_precio`))
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:39:01[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|validar [texto] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+2021-02-24 10:46:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-02-24 10:46:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-02-24 11:39:30[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|quitar_producto [texto] SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`bufeosolbd`.`startproduct`, CONSTRAINT `startproduct_ibfk_1` FOREIGN KEY (`id_producto`) REFERENCES `producto` (`id_producto`))

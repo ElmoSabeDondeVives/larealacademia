@@ -1,0 +1,320 @@
+2021-06-09 12:17:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:28:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:28:53[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:28:53[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:29:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:29:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:32:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:32:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:32:28[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:32:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:47:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:47:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:47:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:47:20[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:49:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:49:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:49:51[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:50:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:50:24[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:51:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:51:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:51:45[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:52:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:51:56[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:52:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:53:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:53:01[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:53:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 879[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:53:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:53:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:53:31[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:53:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 879[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:54:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:54:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:54:18[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:54:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:54:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:54:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:54:42[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:54:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:55:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:55:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:55:18[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:55:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:55:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:55:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:55:39[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:55:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 871[MESSAGGE]Undefined variable: result
+
+2021-06-09 12:55:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:56:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:56:02[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:56:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:56:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:56:06[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:56:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:56:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:56:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:56:34[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:57:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:57:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:57:09[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:57:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 12:57:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\models\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php: 372[MESSAGGE]copy(\\JERSON-SOLSOL\EPSON20): failed to open stream: No such file or directory
+
+2021-06-09 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] VentasController|ticket_electronico [texto] Failed to copy file to printer
+2021-06-09 12:57:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 277[MESSAGGE]Undefined variable: total_soles
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 83[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 89[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:01:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:01:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 921[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:01:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 923[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:01:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 925[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:01:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 927[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 83[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 89[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:03:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 921[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:03:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 923[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:03:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 925[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:03:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 927[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 83[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 85[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 87[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 89[MESSAGGE]Undefined variable: tipo_venta
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas_enviadas.php: 249[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2021-06-09 13:22:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 921[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:22:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 923[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:22:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 925[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:22:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 927[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:25:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 921[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:25:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 923[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:25:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 925[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:25:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 927[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:27:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 921[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:27:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 923[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:27:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 925[MESSAGGE]Undefined variable: tipo_venta_a
+
+2021-06-09 13:27:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 927[MESSAGGE]Undefined variable: tipo_venta_a
+

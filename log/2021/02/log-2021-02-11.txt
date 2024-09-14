@@ -1,0 +1,22 @@
+2021-02-11 12:44:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\agregar_stock.php: 65[MESSAGGE]Undefined property: stdClass::$producto_precio_unidad
+
+2021-02-11 12:45:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\agregar_stock.php: 65[MESSAGGE]Undefined property: stdClass::$producto_precio_unidad
+
+2021-02-11 16:21:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 59[MESSAGGE]Undefined property: stdClass::$producto_codigo_barra
+
+2021-02-11 16:21:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 59[MESSAGGE]Undefined property: stdClass::$producto_codigo_barra
+
+2021-02-11 16:21:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 59[MESSAGGE]Undefined property: stdClass::$producto_codigo_barra
+
+2021-02-11 16:21:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 59[MESSAGGE]Undefined property: stdClass::$producto_codigo_barra
+
+2021-02-11 16:21:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 59[MESSAGGE]Undefined property: stdClass::$producto_codigo_barra
+
+2021-02-11 16:32:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\agregar.php: 42[MESSAGGE]Undefined variable: proveedor
+
+2021-02-11 16:32:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\agregar.php: 42[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-11 16:36:27[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventario\listarproductos2.php: 61[MESSAGGE]Undefined property: stdClass::$producto_precio_proveedor
+
+2021-02-11 16:56:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+

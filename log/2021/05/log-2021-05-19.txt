@@ -1,0 +1,2 @@
+2021-05-19 09:48:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\VentasController.php: 409[MESSAGGE]Undefined variable: return
+

@@ -1,0 +1,6 @@
+2024-06-18 17:11:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lapre\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2024-06-18 17:11:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lapre\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2024-06-18 17:11:41[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\lapre\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+

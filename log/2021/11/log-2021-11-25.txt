@@ -1,0 +1,100 @@
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$id_tipo_ncreditos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 302[MESSAGGE]Undefined property: stdClass::$tipo_ncreditos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$id_tipo_ndebitos
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\realizar_proforma.php: 315[MESSAGGE]Undefined property: stdClass::$tipo_ndebitos_nota_descripcion
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 65[MESSAGGE]Undefined variable: gratuita
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 66[MESSAGGE]Undefined variable: gratuita
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 67[MESSAGGE]Undefined variable: exonerada
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 68[MESSAGGE]Undefined variable: exonerada
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 69[MESSAGGE]Undefined variable: inafecta
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 70[MESSAGGE]Undefined variable: inafecta
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 71[MESSAGGE]Undefined variable: gravada
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 72[MESSAGGE]Undefined variable: gravada
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 73[MESSAGGE]Undefined variable: igv
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 74[MESSAGGE]Undefined variable: igv
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 76[MESSAGGE]Undefined variable: ICBPER
+
+2021-11-25 16:31:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\proforma\tabla_proforma.php: 80[MESSAGGE]Undefined variable: ICBPER
+
+2021-11-25 16:40:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-11-25 16:40:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+

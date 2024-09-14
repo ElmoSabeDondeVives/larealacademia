@@ -1,0 +1,125 @@
+2021-05-10 14:08:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 14:08:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 14:08:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-10 14:08:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-10 14:19:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 14:19:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 14:19:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-10 14:19:26[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-10 15:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-10 15:05:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-10 15:05:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:05:09[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:05:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:05:12[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:07:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2021-05-10 15:07:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2021-05-10 15:07:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:07:04[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:07:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:07:07[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:07:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:07:11[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:09:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:09:35[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:17:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:17:04[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:17:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:17:20[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:17:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:17:44[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:17:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:17:46[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:17:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:17:49[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:18:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 63[MESSAGGE]Undefined property: InventarioController::$proforma
+
+2021-05-10 15:18:58[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:20:51[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 66[MESSAGGE]Undefined property: InventarioController::$ventas
+
+2021-05-10 15:20:51[UTC -5] [ip] 127.0.0.1 [lugar] InventarioController|proforma [texto] Call to a member function listAllIgv() on null
+2021-05-10 15:23:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:23:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:23:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-10 15:23:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-10 15:24:46[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|proforma [texto] Class 'Ventas' not found
+2021-05-10 15:26:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 176[MESSAGGE]Undefined variable: tiponotacredito
+
+2021-05-10 15:26:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 176[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-10 15:26:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 189[MESSAGGE]Undefined variable: tiponotadebito
+
+2021-05-10 15:26:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 189[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-10 15:26:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 176[MESSAGGE]Undefined variable: tiponotacredito
+
+2021-05-10 15:26:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 176[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-10 15:26:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 189[MESSAGGE]Undefined variable: tiponotadebito
+
+2021-05-10 15:26:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\inventario\proforma.php: 189[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-10 15:39:29[UTC -5] [ip] 127.0.0.1 [lugar] Inventario|proforma [texto] Call to undefined method InventarioController::proforma()
+2021-05-10 15:39:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 68[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:39:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 70[MESSAGGE]Undefined index: tipo_comprobante
+
+2021-05-10 15:39:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 81[MESSAGGE]Undefined variable: datos
+
+2021-05-10 15:39:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\historial_ventas.php: 199[MESSAGGE]Undefined variable: total_soles
+
+2021-05-10 15:41:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\ventas\proforma.php: 69[MESSAGGE]Undefined variable: igv
+
+2021-05-10 15:41:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\fire\app\view\ventas\proforma.php: 69[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\models\Reporte.php: 109[MESSAGGE]Trying to get property of non-object
+
+2021-05-10 18:07:49[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\reporte_dia.php: 131[MESSAGGE]Undefined variable: id
+

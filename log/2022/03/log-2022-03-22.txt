@@ -1,0 +1,74 @@
+2022-03-22 18:22:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 86[MESSAGGE]Undefined property: Admin::$caja_cierre
+
+2022-03-22 18:22:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\Admin.php: 87[MESSAGGE]Undefined property: Admin::$id_usuario_cierre
+
+2022-03-22 19:09:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\controllers\ClientesController.php: 203[MESSAGGE]file_get_contents(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+
+2022-03-22 19:09:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\lima\app\controllers\ClientesController.php: 203[MESSAGGE]file_get_contents(https://consultaruc.win/api/ruc/71106432): failed to open stream: php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+
+2022-03-22 19:09:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\ClientesController.php: 214[MESSAGGE]Undefined variable: direccion
+
+2022-03-22 19:12:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\ClientesController.php: 214[MESSAGGE]Undefined variable: direccion
+
+2022-03-22 19:13:16[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-03-22 19:24:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\VentasController.php: 845[MESSAGGE]Undefined variable: nota_descripcion
+
+2022-03-22 19:24:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\VentasController.php: 805[MESSAGGE]Trying to get property of non-object
+
+2022-03-22 19:32:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\ver_venta.php: 111[MESSAGGE]Undefined offset: 1
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 38[MESSAGGE]Undefined variable: tipo_venta
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 39[MESSAGGE]Undefined variable: tipo_venta
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 40[MESSAGGE]Undefined variable: tipo_venta
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 176[MESSAGGE]Undefined variable: total_soles
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\VentasController.php: 288[MESSAGGE]Undefined index: tipo_venta
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 143[MESSAGGE]Undefined property: stdClass::$pago_total
+
+2022-03-22 19:33:05[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 176[MESSAGGE]Undefined variable: total_soles
+
+2022-03-22 19:33:37[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\models\ApiFacturacion.php: 322[MESSAGGE]Undefined variable: rutacertificado
+
+2022-03-22 19:33:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\controllers\VentasController.php: 288[MESSAGGE]Undefined index: tipo_venta
+
+2022-03-22 19:33:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 48[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 49[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 50[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\envio_resumen_diario.php: 176[MESSAGGE]Undefined variable: total_soles
+
+2022-03-22 19:33:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 37[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 38[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:46[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 39[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 37[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 38[MESSAGGE]Undefined variable: estado_cpe
+
+2022-03-22 19:33:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\lima\app\view\ventas\historial_resumen_diario.php: 39[MESSAGGE]Undefined variable: estado_cpe
+

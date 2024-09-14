@@ -1,0 +1,116 @@
+2021-06-24 11:49:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:49:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:50:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:50:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:50:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:50:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:53:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:53:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:53:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:53:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:53:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:53:38[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:53:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:53:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:16[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:54:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:54:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:55:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:55:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:55:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:56:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:56:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:56:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 50[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:56:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:56:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:56:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 382[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:56:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 400[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:56:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 382[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:56:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 400[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:59:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:59:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:59:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:59:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:59:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 382[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:59:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\controllers\ReporteController.php: 400[MESSAGGE]Trying to get property of non-object
+
+2021-06-24 11:59:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:59:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 11:59:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 11:59:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+
+2021-06-24 12:09:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro
+
+2021-06-24 12:09:15[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\fire\app\view\reportes\ingresos_y_egresos.php: 49[MESSAGGE]Undefined index: fecha_filtro_fin
+

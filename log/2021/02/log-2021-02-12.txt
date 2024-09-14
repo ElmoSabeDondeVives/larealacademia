@@ -1,0 +1,377 @@
+2021-02-12 09:24:36[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-12 09:33:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-12 09:33:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-12 09:34:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-12 10:04:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\controllers\VentasController.php: 34[MESSAGGE]require(app/view/ventas/realizar_ventas.php): failed to open stream: No such file or directory
+
+2021-02-12 10:34:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Undefined variable: products
+
+2021-02-12 10:34:05[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Undefined variable: products
+
+2021-02-12 10:38:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:44:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Undefined variable: tipodocumento
+
+2021-02-12 10:44:44[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:45:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Undefined variable: tipodocumento
+
+2021-02-12 10:45:06[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:49:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Undefined variable: tipodocumento
+
+2021-02-12 10:49:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:49:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Undefined variable: tipodocumento
+
+2021-02-12 10:49:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 10:52:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Undefined variable: tipodocumento
+
+2021-02-12 10:52:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\agregar.php: 36[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 12:37:12[UTC -5] [ip] 127.0.0.1 [lugar] Clientes|agregar_cliente [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-12 12:45:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 43[MESSAGGE]Undefined variable: proveedores
+
+2021-02-12 12:45:32[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 43[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 49[MESSAGGE]Undefined property: stdClass::$tipo_documento_identidad
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 49[MESSAGGE]Undefined property: stdClass::$tipo_documento_identidad
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 49[MESSAGGE]Undefined property: stdClass::$tipo_documento_identidad
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 49[MESSAGGE]Undefined property: stdClass::$tipo_documento_identidad
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 49[MESSAGGE]Undefined property: stdClass::$tipo_documento_identidad
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:50:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 56[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:51:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:52:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 54[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:55:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:56:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 12:57:18[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Undefined variable: p
+
+2021-02-12 16:01:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\listar.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 17:13:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\editar.php: 131[MESSAGGE]Undefined variable: cliente
+
+2021-02-12 17:13:17[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\clientes\editar.php: 131[MESSAGGE]Trying to get property of non-object
+
+2021-02-12 17:59:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Undefined variable: products
+
+2021-02-12 17:59:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\ventas\realizar_venta.php: 27[MESSAGGE]Invalid argument supplied for foreach()
+

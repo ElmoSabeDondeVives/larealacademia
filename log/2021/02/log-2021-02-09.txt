@@ -1,0 +1,32 @@
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 35[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 35[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 39[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 39[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 43[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 43[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 47[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 47[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 51[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 51[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 55[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 59[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:16:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 59[MESSAGGE]Trying to get property of non-object
+
+2021-02-09 11:18:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 35[MESSAGGE]Undefined variable: correlative
+
+2021-02-09 11:18:25[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\correlativo\editar.php: 35[MESSAGGE]Trying to get property of non-object
+

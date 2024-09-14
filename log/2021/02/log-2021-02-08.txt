@@ -1,0 +1,173 @@
+2021-02-08 17:01:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\egresos\listar.php: 53[MESSAGGE]Undefined variable: egresos
+
+2021-02-08 17:01:28[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\egresos\listar.php: 53[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-08 17:06:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\egresos\listar.php: 50[MESSAGGE]Undefined variable: egresos
+
+2021-02-08 17:06:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\egresos\listar.php: 50[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-08 17:09:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\models\Egresos.php: 41[MESSAGGE]Missing argument 1 for Egresos::listar_egresos(), called in C:\xampp\htdocs\bufeosale-3\app\controllers\EgresosController.php on line 43 and defined
+
+2021-02-08 17:09:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Egresos.php: 45[MESSAGGE]Undefined variable: fecha_hoy
+
+2021-02-08 17:09:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\models\Egresos.php: 41[MESSAGGE]Missing argument 1 for Egresos::listar_egresos(), called in C:\xampp\htdocs\bufeosale-3\app\controllers\EgresosController.php on line 43 and defined
+
+2021-02-08 17:09:07[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Egresos.php: 45[MESSAGGE]Undefined variable: fecha_hoy
+
+2021-02-08 17:58:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Undefined variable: egresos
+
+2021-02-08 17:58:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-08 17:59:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Undefined variable: egresos
+
+2021-02-08 17:59:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-08 18:03:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Undefined variable: egresos
+
+2021-02-08 18:03:00[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 51[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 61[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:03:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\unidadmedida\listar.php: 58[MESSAGGE]Undefined property: stdClass::$medida_id
+
+2021-02-08 18:39:55[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:51:49[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:51:51[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:51:52[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:51:55[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:52:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-08 20:52:24[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:56:46[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:56:50[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:56:59[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-08 20:57:05[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:57:17[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 20:59:44[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 21:22:39[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 21:26:11[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 21:27:53[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 21:31:06[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-08 21:31:22[UTC -5] [ip] 127.0.0.1 [lugar] Unidadmedida|cambiarestado [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada

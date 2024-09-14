@@ -1,0 +1,52 @@
+2021-02-03 23:29:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\InventoryController.php: 355[MESSAGGE]Undefined index: id_productforsale
+
+2021-02-03 23:30:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\InventoryController.php: 355[MESSAGGE]Undefined index: id_productforsale
+
+2021-02-03 23:49:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:49:30[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 53[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:50:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:50:34[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:50:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:51:09[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:51:12[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:51:29[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 52[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:51:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 51[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:52:33[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:52:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:53:47[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:53:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:54:08[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:54:46[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 62[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:54:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:55:10[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:55:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 55[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:55:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 51[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:57:03[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 57[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:57:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 51[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:57:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 51[MESSAGGE]Trying to get property of non-object
+
+2021-02-03 23:58:01[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\inventory\addstock.php: 51[MESSAGGE]Trying to get property of non-object
+

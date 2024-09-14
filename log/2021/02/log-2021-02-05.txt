@@ -1,0 +1,125 @@
+2021-02-05 11:25:26[UTC -5] [ip] 127.0.0.1 [lugar] Turno|guardar_turno [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2021-02-05 11:43:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\turnos\listar.php: 29[MESSAGGE]Undefined variable: turnos
+
+2021-02-05 11:43:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\turnos\listar.php: 29[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-05 11:45:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\turnos\listar.php: 29[MESSAGGE]Undefined variable: turnos
+
+2021-02-05 11:45:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\xampp\htdocs\bufeosale-3\app\view\turnos\listar.php: 29[MESSAGGE]Invalid argument supplied for foreach()
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Active|getTurnactiveall [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.saleproduct' doesn't exist
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.expense' doesn't exist
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 67[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:13[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Active|getTurnactiveall [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 246[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_per_product [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.saleproduct' doesn't exist
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Report.php: 343[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Report|total_rent [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.expense' doesn't exist
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 67[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 11:56:48[UTC -5] [ip] 127.0.0.1 [lugar] Turn|cashopenBox [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 12:44:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:44:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: turn
+
+2021-02-05 12:44:56[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:44:55[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 12:49:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:49:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: turn
+
+2021-02-05 12:49:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:49:02[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 12:51:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: turn
+
+2021-02-05 12:51:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:19[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 12:51:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: turn
+
+2021-02-05 12:51:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:22[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 12:51:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Admin.php: 104[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: turn
+
+2021-02-05 12:51:42[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\models\Turn.php: 172[MESSAGGE]Trying to get property of non-object
+
+2021-02-05 12:51:42[UTC -5] [ip] 127.0.0.1 [lugar] Turn|getOpen [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bufeosolbd.turn' doesn't exist
+2021-02-05 18:57:36[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 18:57:40[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 18:58:24[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:17:12[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:17:14[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:17:15[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:17:33[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:17:35[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:18:11[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:18:14[UTC -5] [ip] 127.0.0.1 [lugar] AdminController|inicio [texto] DateTime::__construct(): Failed to parse time string (H:i) at position 1 (:): Unexpected character
+2021-02-05 21:18:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\controllers\AdminController.php: 52[MESSAGGE]Undefined variable: hora
+
+2021-02-05 21:18:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:18:21[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:18:45[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:19:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:19:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:19:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:19:39[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:19:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:19:41[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:19:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:19:52[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:20:02[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:20:13[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:20:14[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:20:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:20:20[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
+2021-02-05 21:20:23[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 54[MESSAGGE]Undefined variable: turno_
+
+2021-02-05 21:20:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\xampp\htdocs\bufeosale-3\app\view\admin\index.php: 35[MESSAGGE]Undefined variable: fecha_open
+
